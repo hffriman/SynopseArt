@@ -119,7 +119,7 @@ Henry Friman
   * Twitter: [@hffriman](https://twitter.com/@hfffennec)
   * Mail Adddress: henfriman.second@gmail.com
   * Link to My Profile: [https://github.com/hffriman](https://github.com/hffriman)
-  * Link to this project: [https://github.com/hffriman/Game-Art-Atelier](https://github.com/hffriman/Game-Art-Atelier)
+  * Link to this project: [https://github.com/hffriman/SynopseArt](https://github.com/hffriman/SynopseArt)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
