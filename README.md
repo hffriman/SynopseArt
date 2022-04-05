@@ -1,5 +1,5 @@
-# Game-Art-Atelier
-A Video Game Art Gallery: My Final Project in the Course "Mobile Programming" of Haaga-Helia UAS
+# SynopseArt
+A Fictional Web Site Project (made with HTML and CSS)
 
 <div id="top"></div>
 <!--
@@ -28,24 +28,22 @@ A Video Game Art Gallery: My Final Project in the Course "Mobile Programming" of
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://img.shields.io/github/stars/hffriman/Game-Art-Atelier">
-    <img src="images/GameArtAtelier.png" alt="Logo" width="300" height="300">
+  <a href="https://img.shields.io/github/stars/hffriman/SynopseArt">
+    <img src="images/animation.gif" alt="Logo" width="440" height="272">
   </a>
  </div>
 
-<h3 align="center">Game Art Atelier</h3>
+<h3 align="center">SynopseArt</h3>
 
   <p align="center">
-    A Gallery Dedicated to Visual Arts in Video Games
+    My Fictional Website Project
     <br />
-    <a href="https://github.com/hffriman/Game-Art-Atelier"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/hffriman/SynopseArt"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://expo.dev/@hffriman/Game-Art-Atelier">View Demo</a>
+    <a href="https://github.com/hffriman/SynopseArt/issues">Report Bug</a>
     ·
-    <a href="https://github.com/hffriman/Game-Art-Atelier/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/hffriman/Game-Art-Atelier/issues">Request Feature</a>
+    <a href="https://github.com/hffriman/SynopseArt/issues">Request Feature</a>
   </p>
 </div>
 
@@ -60,18 +58,7 @@ A Video Game Art Gallery: My Final Project in the Course "Mobile Programming" of
       <ul>
         <li><a href="#introduction">Introduction</a></li>
         <li><a href="#screenshots">Screenshots</a></li>
-        <ul>
-          <li><a href="#android-version">Android Version</a></li>
-          <li><a href="#apple-ios-version">Apple iOS Version</a></li>
-        </ul>
         <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -85,118 +72,37 @@ A Video Game Art Gallery: My Final Project in the Course "Mobile Programming" of
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<div align="center"> 
-  <b>Try the App Here (with Expo Mobile App):</b>
-  <p>https://expo.dev/@hffriman/Game-Art-Atelier</p>
-</div>
 
 ### Introduction
 
-"Game Art Atelier" is dedicated to people who appreciate the visual part of video games.
+"SynopseArt" is a fictional website for a fictional company: both of them designed and created by me with HTML and CSS.
 
-With this application, you can search for production artworks, game covers and character designs, as well as save them to three Favourites lists (Favourite Artworks, Favourite Covers, Favourite Covers). 
+This was my individual project in the course "Orientation to Digital Services" during my first year in Haaga-Helia University of Applied Sciences.
 
-You can always delete things you have saved from the Favourites lists. After deletion of each object, you will be automatically sent back to the front page in order to update the changes.
+The website has 4 pages: Introduction, Services, Portfolio and Staff. It presents a fictional company that creates screenplays, storyboards and concept art for other creative individuals and companies. It also provides consultance, workshops and courses for anyone interested in making films, stage plays or other creative projects of their own.
 
-You can also use this app to send feedback to me (the developer) by using the Feedback screen. With this function, you can write the subject and the content of your feedback in the text boxes -- after pressing the Send button, you will be redirected to your own mail application, where you have to only finish the sending of the email. Please make sure you have a mail application in your phone if you want to use the feedback function.
+I used ArtRage and Gimp to create the logo, background colors and staff images. The animation was done with HitFilm Express.
 
+The typewriter in the background is the <b>only graphic NOT made by me</b>: it is a royalty-free image by Clker-Free-Vector-Images from Pixabay.
 
 ### Screenshots
 
-#### Android Version
-<div align="center">
+<div>
    <img src="images/android-screenshot-1.jpg" width="23%" height="23%">
    <img src="images/android-screenshot-2.jpg" width="23%" height="23%">
    <img src="images/android-screenshot-3.jpg" width="23%" height="23%">   
    <img src="images/android-screenshot-4.jpg" width="23%" height="23%">
- </div>
- <br>
- <br>
- <div align="center">
-   <img src="images/android-screenshot-5.jpg" width="23%" height="23%">
-   <img src="images/android-screenshot-6.jpg" width="23%" height="23%">
-   <img src="images/android-screenshot-7.jpg" width="23%" height="23%">
-   <img src="images/android-screenshot-8.jpg" width="23%" height="23%">
 </div>
 <br>
 <br>
 
-#### Apple iOS Version
-<div align="center">
-   <img src="images/ios-screenshot-1.jpg" width="23%" height="23%">
-   <img src="images/ios-screenshot-2.jpg" width="23%" height="23%">
-   <img src="images/ios-screenshot-3.jpg" width="23%" height="23%">   
-   <img src="images/ios-screenshot-4.jpg" width="23%" height="23%">
- </div>
- <br>
- <br>
- <div align="center">
-   <img src="images/ios-screenshot-5.jpg" width="23%" height="23%">
-   <img src="images/ios-screenshot-6.jpg" width="23%" height="23%">
-   <img src="images/ios-screenshot-7.jpg" width="23%" height="23%">
-    <img src="images/ios-screenshot-8.jpg" width="23%" height="23%">
- </div>
-<br>
-<br>
-<br>
+### Made With
 
-   
-### Built With
-
-* [React Native](https://reactnative.dev/)
-* [Expo](https://expo.dev/)
-* [IGDB](https://api-docs.igdb.com/#about)
-* [SQLite](https://www.sqlite.org/index.html)
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-### Prerequisites
-
-If you want to run this project in your app, there are things you have to do first:
-
-**1. IGDB API (for API fetching):**
-  - You must create a Twitch account and register your own app in order to get your own **Client ID** and **Client Secret**
-  - With Cliend ID and Client Secret, you will get your own **Access Token** and **Token Type**
-  - All the necessary instructions are here: https://api-docs.igdb.com/#account-creation
-
-**2. Expo app (for using the app in your phone)**
-  - Install the Expo app to your phone
-  - Google Play (Android) and App Store (iOS)   
-
-**3. Expo Cli (for making the app usable from your phone)**
-  - Install the Expo Cli in your computer from the command line <br> <br>
-     ```sh
-     npm install –g expo-cli
-     ```
-### Installation
-
-1. Clone the repository
-   ```sh
-   git clone https://github.com/hffriman/Game-Art-Atelier.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Create a file .env in the root of your project and add these inside of it:
-    ```
-    TWITCH_CLIENT_ID = YOUR CLIENT ID
-    TWITCH_AUTHORIZATION = YOUR TOKEN TYPE YOUR CLIENT SECRET
-    ```
-4. Replace YOUR CLIENT ID, YOUR TOKEN TYPE and YOUR CLIENT SECRET with the values you are granted: <br>
-   * **Tip 1: The Token Type's First Letter Must Be In Capital (example: bearer -> Bearer)** <br>
-   * **Tip 2: There Must Be Space Between Token Type and the Client Secret (only one space)** <br>
-
-5. Launch the app when you are ready:
-    ```sh
-    npm start
-    ```
+* HTML
+* CSS
+* ArtRage
+* Gimp
+* HitFilm
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -205,25 +111,6 @@ If you want to run this project in your app, there are things you have to do fir
 ## Roadmap
 
 Please see [open issues](https://github.com/hffriman/Game-Art-Atelier/issues) to find out the latest functionality wishes and issue reports.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-If you have any interests of making enhancements to this project, feel free to fork the repository and create a pull request.
-If you have only ideas, don't worry: you can always share them by opening an issue with the tag "enhancement".
-Your contribution, in any shape or form, will always be appreciated!
-
-Please consider giving this project a star, as well. Thank you very much!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
