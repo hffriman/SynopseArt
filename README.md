@@ -120,7 +120,7 @@ Henry Friman
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* The structure of this documentation is based on the Best-README-Template:
+* The structure of this ReadMe is based on the Best-README-Template:
   * https://github.com/othneildrew/Best-README-Template
 
 * The typewriter in the background is provided by Clker-Free-Vector-Images from Pixabay:
