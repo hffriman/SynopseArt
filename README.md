@@ -85,10 +85,10 @@ The typewriter is a royalty-free image, provided by Clker-Free-Vector-Images fro
 ### Screenshots
 
 <div>
-   <img src="images/android-screenshot-1.jpg" width="23%" height="23%">
-   <img src="images/android-screenshot-2.jpg" width="23%" height="23%">
-   <img src="images/android-screenshot-3.jpg" width="23%" height="23%">   
-   <img src="images/android-screenshot-4.jpg" width="23%" height="23%">
+   <img src="screenshots/synopseart-screenshot-1.png" width="40%" height="40%">
+   <img src="screenshots/synopseart-screenshot-2.png" width="40%" height="40%">
+   <img src="screenshots/synopseart-screenshot-3.png" width="40%" height="40%">   
+   <img src="screenshots/synopseart-screenshot-4.png" width="40%" height="40%">
 </div>
 <br>
 <br>
