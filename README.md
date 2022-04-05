@@ -75,7 +75,7 @@ A Fictional Web Site Project (made with HTML and CSS)
 
 ### Introduction
 
-SynopseArt is a fictional website for a fictional company, created by me with HTML and CSS.
+SynopseArt, a fictional website for a fictional company, was created by me with HTML and CSS.
 
 This was my individual project in the course "Orientation to Digital Services" during my first year in Haaga-Helia University of Applied Sciences.
 
