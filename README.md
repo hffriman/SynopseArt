@@ -81,7 +81,7 @@ The website has 4 pages: Introduction, Services, Portfolio and Staff. It present
 
 I used ArtRage and Gimp to create the logo, background colors and staff images. The animation was done with HitFilm Express.
 
-The typewriter in the background is the <b>only graphic NOT made by me</b> (a royalty-free image by Clker-Free-Vector-Images from Pixabay).
+The typewriter in the background is the <b>only graphic NOT made by me</b> (provided by Clker-Free-Vector-Images from Pixabay).
 
 ### Screenshots
 
