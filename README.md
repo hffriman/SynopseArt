@@ -22,7 +22,6 @@ A Fictional Web Site Project (made with HTML and CSS)
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 
 <!-- PROJECT LOGO -->
@@ -79,7 +78,7 @@ This was my individual project in the course "Orientation to Digital Services" d
 
 The website has 4 pages: Introduction, Services, Portfolio and Staff. It presents a fictional company that creates screenplays, storyboards and concept art for other creative individuals and companies. It also provides consultance, workshops and courses for anyone interested in making films, stage plays or other creative projects of their own.
 
-I created the logo, background colors and staff images with ArtRage and Gimp, as well as the animation with HitFilm Express. 
+I created the logo, yellow background and staff images with ArtRage and Gimp. I used HitFilm Express to create the gif animation.
 
 The typewriter is a royalty-free image, provided by Clker-Free-Vector-Images from Pixabay under Pixabay License.
 
@@ -139,6 +138,4 @@ Henry Friman
 [stars-url]: https://github.com/hffriman/SynopseArt/stargazers
 [issues-shield]: https://img.shields.io/github/issues/hffriman/SynopseArt.svg?style=for-the-badge
 [issues-url]: https://github.com/hffriman/SynopseArt/issues
-[license-shield]: https://img.shields.io/github/license/hffriman/SynopseArt.svg?style=for-the-badge
-[license-url]: https://github.com/hffriman/SynopseArt/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
