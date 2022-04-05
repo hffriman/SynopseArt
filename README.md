@@ -70,7 +70,7 @@ The typewriter is a royalty-free image, provided by Clker-Free-Vector-Images fro
 
 ### Screenshots
 
-<div style=text-align:"center">
+<div align="center">
   <div>
      <img src="screenshots/synopseart-screenshot-1.png" width="40%" height="40%">
   </div>
