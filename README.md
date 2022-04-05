@@ -124,7 +124,7 @@ Henry Friman
   * https://github.com/othneildrew/Best-README-Template
 
 * The typewriter in the background is provided by Clker-Free-Vector-Images from Pixabay:
-  * https://pixabay.com/fi/users/clker-free-vector-images-3736/  
+  * https://pixabay.com/fi/vectors/kirjoituskone-vuosikerta-312748/ 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
