@@ -1,0 +1,174 @@
+body {
+    background-image: url("../images/taustataide.png");
+    background-position: top;
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+.img-logo, .logoanimaatio {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    resize: both;
+    text-align: center;
+}
+
+.img-typewriter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    resize: both;
+    opacity: 50%;
+}
+
+.staff-image-container {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-bottom: 15px;
+}
+
+
+.staff-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    resize: both;
+    border-radius: 20px;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Titilliub Web', sans-serif;
+    text-decoration: underline;
+    padding-top: 20px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Titilliub Web', sans-serif;
+    text-decoration: underline;
+}
+
+
+p.normal {
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Titillium Web', sans-serif;
+    resize: both;
+}
+
+p.footer {
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
+ul, li, i {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
+nav ul {
+    font-size: 15px;
+    font-family: sans-serif;
+    text-align: center;
+    padding-left: 0px;
+}
+
+nav li {
+    font-size: 15px;
+    text-align: center;
+    display: inline-block;
+    margin: 20px;
+}
+
+a:link, a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-bottom: 15px;
+}
+
+.flex-item {
+    width: 300px;
+    padding-right: 4px;
+    padding-left: 4px;
+    padding-bottom: 30px;
+    margin: auto;
+}
+
+
+
+
+
+@media only screen and (max-width: 500px) {
+    body {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+
+    #mobiilivalikko {
+        text-align: center;
+    }
+
+    #valikko {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 501px) {
+    
+    body {
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+
+    #mobiilivalikko {
+        text-align: center;
+    }
+
+    #valikko {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 1020px) {
+
+    body {
+        margin-left: 300px;
+        margin-right: 300px;
+    }
+
+    #mobiilivalikko {
+        display: none;
+    }
+
+    #valikko {
+        display: contents;
+    }
+}
