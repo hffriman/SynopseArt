@@ -60,7 +60,6 @@ A Fictional Web Site Project (made with HTML and CSS)
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -84,11 +83,19 @@ The typewriter is a royalty-free image, provided by Clker-Free-Vector-Images fro
 
 ### Screenshots
 
-<div>
-   <img src="screenshots/synopseart-screenshot-1.png" width="40%" height="40%">
-   <img src="screenshots/synopseart-screenshot-2.png" width="40%" height="40%">
-   <img src="screenshots/synopseart-screenshot-3.png" width="40%" height="40%">   
-   <img src="screenshots/synopseart-screenshot-4.png" width="40%" height="40%">
+<div style=text-align:"center">
+  <div>
+     <img src="screenshots/synopseart-screenshot-1.png" width="40%" height="40%">
+  </div>
+  <div>
+     <img src="screenshots/synopseart-screenshot-2.png" width="40%" height="40%">
+  </div>
+  <div>
+     <img src="screenshots/synopseart-screenshot-3.png" width="40%" height="40%">   
+  </div>
+  <div>
+    <img src="screenshots/synopseart-screenshot-4.png" width="40%" height="40%">
+  </div>
 </div>
 <br>
 <br>
