@@ -61,8 +61,6 @@ A Fictional Web Site Project (made with HTML and CSS)
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -107,23 +105,6 @@ The typewriter in the background is the <b>only graphic NOT made by me</b>: it i
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-Please see [open issues](https://github.com/hffriman/Game-Art-Atelier/issues) to find out the latest functionality wishes and issue reports.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -136,11 +117,15 @@ Henry Friman
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 * The structure of this documentation is based on the Best-README-Template:
   * https://github.com/othneildrew/Best-README-Template
+
+* The typewriter in the background is provided by Clker-Free-Vector-Images from Pixabay:
+  * https://pixabay.com/fi/users/clker-free-vector-images-3736/  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
