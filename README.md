@@ -79,9 +79,9 @@ This was my individual project in the course "Orientation to Digital Services" d
 
 The website has 4 pages: Introduction, Services, Portfolio and Staff. It presents a fictional company that creates screenplays, storyboards and concept art for other creative individuals and companies. It also provides consultance, workshops and courses for anyone interested in making films, stage plays or other creative projects of their own.
 
-I used ArtRage and Gimp to create the logo, background colors and staff images. The animation was done with HitFilm Express.
+I created the logo, background colors and staff images with ArtRage and Gimp, as well as the animation with HitFilm Express. 
 
-The typewriter in the background is the <b>only graphic NOT made by me</b> (provided by Clker-Free-Vector-Images from Pixabay).
+The typewriter is a royalty-free image, provided by Clker-Free-Vector-Images from Pixabay under Pixabay License.
 
 ### Screenshots
 
