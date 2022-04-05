@@ -146,14 +146,14 @@ Henry Friman
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/hffriman/Game-Art-Atelier.svg?style=for-the-badge
-[contributors-url]: https://github.com/hffriman/Game-Art-Atelier/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/hffriman/Game-Art-Atelier.svg?style=for-the-badge
-[forks-url]: https://github.com/hffriman/Game-Art-Atelier/network/members
-[stars-shield]: https://img.shields.io/github/stars/hffriman/Game-Art-Atelier.svg?style=for-the-badge
-[stars-url]: https://github.com/hffriman/Game-Art-Atelier/stargazers
-[issues-shield]: https://img.shields.io/github/issues/hffriman/Game-Art-Atelier.svg?style=for-the-badge
-[issues-url]: https://github.com/hffriman/Game-Art-Atelier/issues
-[license-shield]: https://img.shields.io/github/license/hffriman/Game-Art-Atelier.svg?style=for-the-badge
-[license-url]: https://github.com/hffriman/Game-Art-Atelier/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/hffriman/SynopseArt.svg?style=for-the-badge
+[contributors-url]: https://github.com/hffriman/SynopseArt/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/hffriman/SynopseArt.svg?style=for-the-badge
+[forks-url]: https://github.com/hffriman/SynopseArt/network/members
+[stars-shield]: https://img.shields.io/github/stars/hffriman/SynopseArt?style=for-the-badge
+[stars-url]: https://github.com/hffriman/SynopseArt/stargazers
+[issues-shield]: https://img.shields.io/github/issues/hffriman/SynopseArt.svg?style=for-the-badge
+[issues-url]: https://github.com/hffriman/SynopseArt/issues
+[license-shield]: https://img.shields.io/github/license/hffriman/SynopseArt.svg?style=for-the-badge
+[license-url]: https://github.com/hffriman/SynopseArt/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
